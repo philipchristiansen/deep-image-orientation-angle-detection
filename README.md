@@ -1,5 +1,8 @@
 # Deep Image Orientation Angle Detection
 
+Some initial notes:
+Due to package discrepancies from the original project, the only way I could feasibly install was through using an environment in conda.
+
 *Annoucement: Deep-OAD V2 is out with the following features,*
 
 - *VIT Implementation with SOTA results*
